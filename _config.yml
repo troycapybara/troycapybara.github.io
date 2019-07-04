@@ -24,4 +24,4 @@ people:
 # Build settings
 markdown: kramdown
 permalink: pretty
-theme: tactile
+theme: jekyll-theme-tactile
