@@ -24,4 +24,4 @@ people:
 # Build settings
 markdown: kramdown
 permalink: pretty
-theme: jekyll-theme-tactile
+theme: jekyll-theme-cayman
